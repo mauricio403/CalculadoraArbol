@@ -1,0 +1,16 @@
+C:\Users\User\Documents\adt\Adt\AdtApp\bin\Debug\netcoreapp3.1\AdtApp.exe
+C:\Users\User\Documents\adt\Adt\AdtApp\bin\Debug\netcoreapp3.1\AdtApp.deps.json
+C:\Users\User\Documents\adt\Adt\AdtApp\bin\Debug\netcoreapp3.1\AdtApp.runtimeconfig.json
+C:\Users\User\Documents\adt\Adt\AdtApp\bin\Debug\netcoreapp3.1\AdtApp.runtimeconfig.dev.json
+C:\Users\User\Documents\adt\Adt\AdtApp\bin\Debug\netcoreapp3.1\AdtApp.dll
+C:\Users\User\Documents\adt\Adt\AdtApp\bin\Debug\netcoreapp3.1\AdtApp.pdb
+C:\Users\User\Documents\adt\Adt\AdtApp\bin\Debug\netcoreapp3.1\Adt.dll
+C:\Users\User\Documents\adt\Adt\AdtApp\bin\Debug\netcoreapp3.1\Adt.pdb
+C:\Users\User\Documents\adt\Adt\AdtApp\obj\Debug\netcoreapp3.1\AdtApp.csprojAssemblyReference.cache
+C:\Users\User\Documents\adt\Adt\AdtApp\obj\Debug\netcoreapp3.1\AdtApp.AssemblyInfoInputs.cache
+C:\Users\User\Documents\adt\Adt\AdtApp\obj\Debug\netcoreapp3.1\AdtApp.AssemblyInfo.cs
+C:\Users\User\Documents\adt\Adt\AdtApp\obj\Debug\netcoreapp3.1\AdtApp.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\adt\Adt\AdtApp\obj\Debug\netcoreapp3.1\AdtApp.csproj.CopyComplete
+C:\Users\User\Documents\adt\Adt\AdtApp\obj\Debug\netcoreapp3.1\AdtApp.dll
+C:\Users\User\Documents\adt\Adt\AdtApp\obj\Debug\netcoreapp3.1\AdtApp.pdb
+C:\Users\User\Documents\adt\Adt\AdtApp\obj\Debug\netcoreapp3.1\AdtApp.genruntimeconfig.cache

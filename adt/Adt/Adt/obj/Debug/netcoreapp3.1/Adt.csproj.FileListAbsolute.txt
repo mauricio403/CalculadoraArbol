@@ -1,0 +1,9 @@
+C:\Users\User\Documents\adt\Adt\Adt\bin\Debug\netcoreapp3.1\Adt.deps.json
+C:\Users\User\Documents\adt\Adt\Adt\bin\Debug\netcoreapp3.1\Adt.dll
+C:\Users\User\Documents\adt\Adt\Adt\bin\Debug\netcoreapp3.1\Adt.pdb
+C:\Users\User\Documents\adt\Adt\Adt\obj\Debug\netcoreapp3.1\Adt.AssemblyInfoInputs.cache
+C:\Users\User\Documents\adt\Adt\Adt\obj\Debug\netcoreapp3.1\Adt.AssemblyInfo.cs
+C:\Users\User\Documents\adt\Adt\Adt\obj\Debug\netcoreapp3.1\Adt.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\adt\Adt\Adt\obj\Debug\netcoreapp3.1\Adt.dll
+C:\Users\User\Documents\adt\Adt\Adt\obj\Debug\netcoreapp3.1\Adt.pdb
+C:\Users\User\Documents\adt\Adt\Adt\obj\Debug\netcoreapp3.1\Adt.csprojAssemblyReference.cache

@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Adt", "Adt\Adt.csproj", "{3CDE876C-ADBE-45DF-8B9E-A1E23C0C75F5}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AdtApp", "AdtApp\AdtApp.csproj", "{DFC6805E-1602-4637-A9D6-9E1F12821F0D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PruebasArbol2", "PruebasArbol2\PruebasArbol2.csproj", "{3799E247-C79C-4638-9874-CDAAB7D5220A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3CDE876C-ADBE-45DF-8B9E-A1E23C0C75F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3CDE876C-ADBE-45DF-8B9E-A1E23C0C75F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3CDE876C-ADBE-45DF-8B9E-A1E23C0C75F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3CDE876C-ADBE-45DF-8B9E-A1E23C0C75F5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DFC6805E-1602-4637-A9D6-9E1F12821F0D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFC6805E-1602-4637-A9D6-9E1F12821F0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFC6805E-1602-4637-A9D6-9E1F12821F0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFC6805E-1602-4637-A9D6-9E1F12821F0D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3799E247-C79C-4638-9874-CDAAB7D5220A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3799E247-C79C-4638-9874-CDAAB7D5220A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3799E247-C79C-4638-9874-CDAAB7D5220A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3799E247-C79C-4638-9874-CDAAB7D5220A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CB85AE63-D9EC-497D-98F6-E0F66B34EF8B}
+	EndGlobalSection
+EndGlobal
